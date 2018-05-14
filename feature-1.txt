@@ -6,3 +6,6 @@ content3
 
 SECTION 2
 content1
+
+SECTION 3
+content1
